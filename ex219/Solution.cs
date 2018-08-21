@@ -16,8 +16,8 @@ namespace ex219 {
         public bool ContainsNearbyDuplicate2 (int[] nums, int k) {
             Dictionary<int, int> dict = new Dictionary<int, int> ();
             for (int i = 0; i < nums.Length; i++) {
-                if (dict.ContainsValue (nums[i])) {
-                    if (Math.Abs (i - dict.GetValueOrDefault(nums[i])) <= k)
+                if (dict.TryGetValue(nums[i], out int j)) {
+                    if (Math.Abs (i - j) <= k)
                         return true;
                     dict.Remove (nums[i]);
                     dict.Add (nums[i], i);

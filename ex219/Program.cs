@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
 namespace ex219
@@ -46,6 +47,9 @@ namespace ex219
             System.Console.WriteLine(solution.ContainsNearbyDuplicate2(new int[] {1,0,1,1}, 1));
             //case 3 , input[1,2,3,1], k = 3
             System.Console.WriteLine(solution.ContainsNearbyDuplicate2(new int[] {1,2,3,1}, 3));
+
+            System.Console.WriteLine(solution.ContainsNearbyDuplicate(new int[] {-1, -1}, 1));
+            System.Console.WriteLine(solution.ContainsNearbyDuplicate2(new int[] {-1, -1}, 1));
         }
     }
 }
