@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex217ContainsDuplicate", "ex217ContainsDuplicate\ex217ContainsDuplicate.csproj", "{C8C6003C-003E-4852-BEF7-7106BAFC5E4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex219", "ex219\ex219.csproj", "{637E7C58-49BD-429F-8C35-07174F83B4A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex219ContainsDuplicate2", "ex219ContainsDuplicate2\ex219ContainsDuplicate2.csproj", "{637E7C58-49BD-429F-8C35-07174F83B4A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex771", "ex771\ex771.csproj", "{398208C5-C176-46A7-971F-EC9B2E9C4787}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex771JewelsAndStones", "ex771JewelsAndStones\ex771JewelsAndStones.csproj", "{398208C5-C176-46A7-971F-EC9B2E9C4787}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
