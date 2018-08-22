@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chaol\\Source\\Repos\\LeetCodeExercise\\ex771JewelsAndStones\\ex771JewelsAndStones.csproj",
-      "projectName": "ex771JewelsAndStones",
-      "projectPath": "C:\\Users\\chaol\\Source\\Repos\\LeetCodeExercise\\ex771JewelsAndStones\\ex771JewelsAndStones.csproj",
+      "projectUniqueName": "C:\\Users\\chaol\\Source\\Repos\\LeetCodeExercise\\ex002AddTwoNumbers\\ex002AddTwoNumbers.csproj",
+      "projectName": "ex002AddTwoNumbers",
+      "projectPath": "C:\\Users\\chaol\\Source\\Repos\\LeetCodeExercise\\ex002AddTwoNumbers\\ex002AddTwoNumbers.csproj",
       "packagesPath": "C:\\Users\\chaol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chaol\\Source\\Repos\\LeetCodeExercise\\ex771JewelsAndStones\\obj\\",
+      "outputPath": "C:\\Users\\chaol\\Source\\Repos\\LeetCodeExercise\\ex002AddTwoNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
