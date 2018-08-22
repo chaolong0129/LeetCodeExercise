@@ -1,0 +1,10 @@
+C:\Users\chaol\Source\Repos\LeetCodeExercise\ex709TwoLowerCase\bin\Debug\netcoreapp2.1\ex709TheLowerCase.deps.json
+C:\Users\chaol\Source\Repos\LeetCodeExercise\ex709TwoLowerCase\bin\Debug\netcoreapp2.1\ex709TheLowerCase.runtimeconfig.json
+C:\Users\chaol\Source\Repos\LeetCodeExercise\ex709TwoLowerCase\bin\Debug\netcoreapp2.1\ex709TheLowerCase.runtimeconfig.dev.json
+C:\Users\chaol\Source\Repos\LeetCodeExercise\ex709TwoLowerCase\bin\Debug\netcoreapp2.1\ex709TheLowerCase.dll
+C:\Users\chaol\Source\Repos\LeetCodeExercise\ex709TwoLowerCase\bin\Debug\netcoreapp2.1\ex709TheLowerCase.pdb
+C:\Users\chaol\Source\Repos\LeetCodeExercise\ex709TwoLowerCase\obj\Debug\netcoreapp2.1\ex709TheLowerCase.csproj.CoreCompileInputs.cache
+C:\Users\chaol\Source\Repos\LeetCodeExercise\ex709TwoLowerCase\obj\Debug\netcoreapp2.1\ex709TheLowerCase.AssemblyInfoInputs.cache
+C:\Users\chaol\Source\Repos\LeetCodeExercise\ex709TwoLowerCase\obj\Debug\netcoreapp2.1\ex709TheLowerCase.AssemblyInfo.cs
+C:\Users\chaol\Source\Repos\LeetCodeExercise\ex709TwoLowerCase\obj\Debug\netcoreapp2.1\ex709TheLowerCase.dll
+C:\Users\chaol\Source\Repos\LeetCodeExercise\ex709TwoLowerCase\obj\Debug\netcoreapp2.1\ex709TheLowerCase.pdb
