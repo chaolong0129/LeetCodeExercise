@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex653TwoSumAndBST", "ex653T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex002AddTwoNumbers", "ex002AddTwoNumbers\ex002AddTwoNumbers.csproj", "{489F2D87-1110-41E0-BE04-ABE56D1C4564}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex371SumOfTwoIntegers", "ex371SumOfTwoIntegers\ex371SumOfTwoIntegers.csproj", "{BD797981-E69A-4C95-85C7-A5C7CF832E93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{489F2D87-1110-41E0-BE04-ABE56D1C4564}.Release|x64.Build.0 = Release|Any CPU
 		{489F2D87-1110-41E0-BE04-ABE56D1C4564}.Release|x86.ActiveCfg = Release|Any CPU
 		{489F2D87-1110-41E0-BE04-ABE56D1C4564}.Release|x86.Build.0 = Release|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Debug|x64.Build.0 = Debug|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Debug|x86.Build.0 = Debug|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Release|x64.ActiveCfg = Release|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Release|x64.Build.0 = Release|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Release|x86.ActiveCfg = Release|Any CPU
+		{BD797981-E69A-4C95-85C7-A5C7CF832E93}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
