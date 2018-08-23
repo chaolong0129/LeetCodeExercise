@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex461HammingDistance", "ex4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex191NumberOf1Bits", "ex191NumberOf1Bits\ex191NumberOf1Bits.csproj", "{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex190ReverseBits", "ex190ReverseBits\ex190ReverseBits.csproj", "{95EDEE79-42CD-4888-ABD8-8F4661B67504}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -223,6 +225,18 @@ Global
 		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Release|x64.Build.0 = Release|Any CPU
 		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Release|x86.ActiveCfg = Release|Any CPU
 		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Release|x86.Build.0 = Release|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Debug|x64.Build.0 = Debug|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Debug|x86.Build.0 = Debug|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Release|x64.ActiveCfg = Release|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Release|x64.Build.0 = Release|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Release|x86.ActiveCfg = Release|Any CPU
+		{95EDEE79-42CD-4888-ABD8-8F4661B67504}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
