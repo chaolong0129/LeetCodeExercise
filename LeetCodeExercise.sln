@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex007ReverseInteger", "ex00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex804UniqueMorseCodeWords", "ex804UniqueMorseCodeWords\ex804UniqueMorseCodeWords.csproj", "{D2CFAEB1-AE89-48AD-A8CF-A021CEBB24FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex852PeakIndexInAMountainArray", "ex852PeakIndexInAMountainArray\ex852PeakIndexInAMountainArray.csproj", "{D1B38866-ABCF-49D2-9008-501F53802CAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -265,6 +267,18 @@ Global
 		{D2CFAEB1-AE89-48AD-A8CF-A021CEBB24FC}.Release|x64.Build.0 = Release|Any CPU
 		{D2CFAEB1-AE89-48AD-A8CF-A021CEBB24FC}.Release|x86.ActiveCfg = Release|Any CPU
 		{D2CFAEB1-AE89-48AD-A8CF-A021CEBB24FC}.Release|x86.Build.0 = Release|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Debug|x64.Build.0 = Debug|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Debug|x86.Build.0 = Debug|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Release|x64.ActiveCfg = Release|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Release|x64.Build.0 = Release|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Release|x86.ActiveCfg = Release|Any CPU
+		{D1B38866-ABCF-49D2-9008-501F53802CAD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
