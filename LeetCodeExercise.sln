@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex657JudgeRouteCircle", "ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex461HammingDistance", "ex461HammingDistance\ex461HammingDistance.csproj", "{15591A74-97EB-4CD9-A89C-2EA96E371EF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex191NumberOf1Bits", "ex191NumberOf1Bits\ex191NumberOf1Bits.csproj", "{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +211,18 @@ Global
 		{15591A74-97EB-4CD9-A89C-2EA96E371EF8}.Release|x64.Build.0 = Release|Any CPU
 		{15591A74-97EB-4CD9-A89C-2EA96E371EF8}.Release|x86.ActiveCfg = Release|Any CPU
 		{15591A74-97EB-4CD9-A89C-2EA96E371EF8}.Release|x86.Build.0 = Release|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Debug|x64.Build.0 = Debug|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Debug|x86.Build.0 = Debug|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Release|x64.ActiveCfg = Release|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Release|x64.Build.0 = Release|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Release|x86.ActiveCfg = Release|Any CPU
+		{7ED0B3D9-01FC-40E6-8207-ADCD1E9B25EC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
