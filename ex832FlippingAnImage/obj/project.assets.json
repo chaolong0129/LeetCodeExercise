@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robert\\Source\\Repos\\LeetCodeExercise\\ex371SumOfTwoIntegers\\ex371SumOfTwoIntegers.csproj",
-      "projectName": "ex371SumOfTwoIntegers",
-      "projectPath": "C:\\Users\\robert\\Source\\Repos\\LeetCodeExercise\\ex371SumOfTwoIntegers\\ex371SumOfTwoIntegers.csproj",
+      "projectUniqueName": "C:\\Users\\robert\\Source\\Repos\\LeetCodeExercise\\ex832FlippingAnImage\\ex832FlippingAnImage.csproj",
+      "projectName": "ex832FlippingAnImage",
+      "projectPath": "C:\\Users\\robert\\Source\\Repos\\LeetCodeExercise\\ex832FlippingAnImage\\ex832FlippingAnImage.csproj",
       "packagesPath": "C:\\Users\\robert\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robert\\Source\\Repos\\LeetCodeExercise\\ex371SumOfTwoIntegers\\obj\\",
+      "outputPath": "C:\\Users\\robert\\Source\\Repos\\LeetCodeExercise\\ex832FlippingAnImage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
