@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex226InvertBinaryTree", "ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex476NumberComplement", "ex476NumberComplement\ex476NumberComplement.csproj", "{3D358FB7-5629-4288-A1AC-F95765820C35}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex342PowerOfFour", "ex342PowerOfFour\ex342PowerOfFour.csproj", "{A8392068-0CB1-4368-A12F-F21B159C8915}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -307,6 +309,18 @@ Global
 		{3D358FB7-5629-4288-A1AC-F95765820C35}.Release|x64.Build.0 = Release|Any CPU
 		{3D358FB7-5629-4288-A1AC-F95765820C35}.Release|x86.ActiveCfg = Release|Any CPU
 		{3D358FB7-5629-4288-A1AC-F95765820C35}.Release|x86.Build.0 = Release|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Debug|x64.Build.0 = Debug|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Debug|x86.Build.0 = Debug|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Release|x64.ActiveCfg = Release|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Release|x64.Build.0 = Release|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Release|x86.ActiveCfg = Release|Any CPU
+		{A8392068-0CB1-4368-A12F-F21B159C8915}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
